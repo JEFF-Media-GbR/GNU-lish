@@ -8,5 +8,6 @@ GNU-lish is based on English, but adds some additional rules. Please note that t
 2. Names of persons (both "real life" and "internet" names) must never be altered
 3. Words with two or less letters must never be altered.
 4. Words that have a consonant as first letter, and a vowel as second letter must be altered by inserting an "n" between the first and second letter, unless the word starts with "vowel-like" letter like "y" (e.g. "human" -> "hnuman")
-5. Rule #3 also applies to words where the third letter is the same as the second letter (e.g. "google" -> "gnoogle")
-6. Words starting with a vowel have to be prepended with "gn" (or "Gn" if the first letter was uppercase)
+5. Rule #4 does not apply to words starting with "m"
+6. Rule #3 also applies to words where the third letter is the same as the second letter (e.g. "google" -> "gnoogle")
+7. Words starting with a vowel have to be prepended with "gn" (or "Gn" if the first letter was uppercase)
